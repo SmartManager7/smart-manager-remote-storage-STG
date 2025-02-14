@@ -1,0 +1,26 @@
+[
+    {
+        "id": "a94e7864-9fbd-4039-a46a-c422284e1c7e",
+        "name": "Games Engine",
+        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
+        "remotePath": "packs/tags/9a7b6538-c6ca-44af-9803-c31aefcec255.zip",
+        "version": "f799e7a1-f13b-40a2-840b-a9953853b463",
+        "itemsVersions": {
+            "GE1": "74e0cb04-5bef-4101-b7ed-89f00195f5be",
+            "GE2": "b367fb25-54ef-4999-897c-66797dfe63d3",
+            "GE3": "12d93808-3ba3-4767-8d47-17b0bdbfd6d7",
+            "GE4": "e050ef84-f149-4ad6-819b-397c8e76da37",
+            "GE5": "96fe5755-c832-4e5e-ac7b-0884fc29cc0b",
+            "GE6": "93555311-4710-4d66-937a-59911db48dfd",
+            "GE7": "6b3a7f4c-f726-4559-9ac0-f4c9d74fb30c",
+            "GE8": "4e7c7647-134f-49c2-93bb-03d9a8b470d8",
+            "GE9": "8f980bbf-0156-4d3b-94f4-fa3d8ad28713",
+            "GE10": "e248ee9b-18fb-4ffb-826e-570bc1195a12",
+            "GE11": "85bd3458-e36c-49ed-8185-9c79745f37d1",
+            "GE12": "55468a7b-e0e2-45dc-9e8b-ce6f5919846a",
+            "GE13": "9f198f69-6b75-4918-9165-04eb7260cae5",
+            "GE14": "93f9e5ab-58e4-411b-b8ac-8b014254d696",
+            "GE15": "4acfae94-7d59-46ca-aef5-e89b54cefa5f"
+        }
+    }
+]
