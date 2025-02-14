@@ -1,5 +1,34 @@
 [
     {
+        "id": "3f1900a5-9b28-4c30-ab8a-2e45bb7a64a9",
+        "name": "Common",
+        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
+        "remotePath": "packs/meta-options/5d33f447-2fea-45ff-a122-a68f0bcddb97.zip",
+        "version": "3be11bc8-abac-4914-a4cb-d1b817c1ecfa",
+        "remoteDependencies": {
+            "dataBuckets": [
+                {
+                    "id": "20183fe9-a177-4769-b0ea-1d591574e350",
+                    "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
+                    "remotePath": "packs/data-buckets/bc69580c-6663-43fa-85a6-38650ff7423e.zip"
+                }
+            ]
+        },
+        "itemsVersions": {
+            "f96df13c-e681-43ca-ae11-8698fe729f17": "100a6323-de5a-4d37-bb56-c6205177eb3b",
+            "849c5208-908f-4d2b-ba51-d3cb81c98f77": "181417f6-6b35-4793-b237-63460f7f8321",
+            "dfa765f3-6ec0-4cab-8234-fe2f7c61bd94": "ebbcb608-b2c1-4d4c-b528-0bdfa734c697",
+            "7dd6e381-d4c0-444e-89bb-ced4e0c75f33": "4e7fcfe3-d101-4098-8acc-fef8057e0442",
+            "c78ec9cb-f2c5-448c-8ecc-ec5bd65dd6d6": "14d66465-d6f7-452e-9a86-ab2d9526a68e",
+            "be8f8729-de5c-49de-9b64-2a518cfd6408": "837fa1b3-b68d-4df4-a145-3911facce64c",
+            "b608bbf0-418f-44ef-9e91-30974a8d4b63": "3a9349a1-b7e5-44c0-a10c-6bc8a50d7f26",
+            "472ac889-d408-4298-a5a8-70aa9959225b": "83f97352-f837-458c-a1bb-6e54f7ce1e3c",
+            "4662262f-c7ee-407b-bbe9-01f17b92b4d7": "2f041269-92f5-46d7-a1f5-45cad16e63c7",
+            "80ee6485-9819-4d82-abfc-991a558663d7": "91722200-aed3-4bed-a637-22150bfca1d4",
+            "ff272c07-e8a9-4523-ba63-0c4d09cf458d": "e7e77f58-fa71-4617-94b4-1005aced5181"
+        }
+    },
+    {
         "id": "7a2e8310-b7aa-412e-9e29-babfb925e0e1",
         "name": "Manga",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
