@@ -1,5 +1,18 @@
 [
     {
+        "id": "62879559-cda7-4989-954b-67af2c281f59",
+        "name": "Common Status",
+        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
+        "remotePath": "packs/tags/4ff861bd-6036-40b6-97c2-26b99644f9fd.zip",
+        "version": "59ebef6b-d301-4d24-8e5c-669e8b101aef",
+        "itemsVersions": {
+            "CSS1": "f2b00777-598a-45e2-88fd-c62747e20280",
+            "CSS2": "f0bfc095-634f-4553-9dc6-b2f9af4cb0fc",
+            "CSS3": "f50ca6c3-85cf-48cd-bf87-3647fed238d7",
+            "CSS4": "d6e00e19-e715-472d-bc49-e5d5b73f2bdc"
+        }
+    },
+    {
         "id": "a94e7864-9fbd-4039-a46a-c422284e1c7e",
         "name": "Games Engine",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
