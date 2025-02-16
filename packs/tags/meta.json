@@ -99,6 +99,31 @@
         }
     },
     {
+        "id": "dd48e8c8-847e-469c-bec3-fac8f82d5a7d",
+        "name": "Manga types",
+        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
+        "remotePath": "packs/tags/1f78bc54-fb23-4697-b9d8-d42687ec6506.zip",
+        "version": "a432f5d7-75c6-4e23-b826-acc906dbddcf",
+        "itemsVersions": {
+            "MT1": "0951ea12-04f2-4560-8d38-0575e47b8ae7",
+            "MT2": "ca2383ec-b29b-4a59-ba0b-aab9bc566cd4",
+            "MT3": "d873e656-dd43-41fc-b12c-ede4f05c67e7",
+            "MT4": "fa8c988f-b227-40dc-8cef-abce577254f8",
+            "MT5": "f5b82914-c73b-49d3-b897-f0f018c6fb6f",
+            "MT6": "284fe513-6faf-4b30-9733-ff0c68195ed7",
+            "MT7": "6bb7951f-e99e-4fec-94f6-4afc8561fa8d",
+            "MT8": "8a683bd0-4455-4061-9a67-d2f34de71c29",
+            "MT9": "b07f9a6d-085c-4500-8c47-96bd0a802584",
+            "MT10": "c2c59448-2984-4ea1-b221-90d42e41b59e",
+            "MT11": "edc335ad-9190-4464-aa6e-369cf1a7020c",
+            "MT12": "86bca125-1cac-48dd-9a97-c5f46f34ff4d",
+            "MT13": "33372c4d-81ea-48ec-8f64-06ebf23a47c5",
+            "MT14": "a3ee4849-67a5-49c1-927e-fb6a2fcd3362",
+            "MT15": "9945bbaf-cdce-4640-a3e8-93c745f35789",
+            "MT16": "3332719a-9b44-4947-9876-370c5a3aaaaf"
+        }
+    },
+    {
         "id": "62879559-cda7-4989-954b-67af2c281f59",
         "name": "Common Status",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
