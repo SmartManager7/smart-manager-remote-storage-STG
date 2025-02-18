@@ -44,7 +44,7 @@
         "name": "Games",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
         "remotePath": "packs/meta-options/a0bfd4d7-aa78-42a8-b232-d849d003a453.zip",
-        "version": "8e2ba755-d2c6-4194-a175-e557331b7a75",
+        "version": "57e040b5-db94-49a6-91b6-9f59b2dc1e29",
         "remoteDependencies": {
             "dataBuckets": [
                 {
