@@ -4,7 +4,7 @@
         "name": "Common",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
         "remotePath": "packs/meta-options/5d33f447-2fea-45ff-a122-a68f0bcddb97.zip",
-        "version": "14ec99de-5ffb-4c9e-b124-ce8235f72d08",
+        "version": "c353d036-8b0b-4243-a9a5-2001b57dbba6",
         "remoteDependencies": {
             "dataBuckets": [
                 {
