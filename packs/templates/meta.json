@@ -4,10 +4,10 @@
         "name": "Common",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
         "remotePath": "packs/templates/1f98e9e8-31e9-48af-a866-6345ea94879f.zip",
-        "version": "925679b1-c16f-409e-b7f0-ba7c14e19c37",
+        "version": "f59e9323-046b-4f97-9a7b-60aef86e3a94",
         "itemsVersions": {
-            "aca1bbe3-55c5-4953-8715-af1a64625e51": "b17f9565-442b-4a4b-98fc-99a33f265d31",
-            "8ebd50f1-f917-4d85-b9e1-fb0124e59710": "0e82f804-765f-495a-bdf8-5eb71261e016"
+            "aca1bbe3-55c5-4953-8715-af1a64625e51": "b325076c-554e-41f7-8f73-5133e07d8219",
+            "8ebd50f1-f917-4d85-b9e1-fb0124e59710": "e9461558-3c2e-4f13-98cb-284d1f1ea5e0"
         }
     }
 ]
