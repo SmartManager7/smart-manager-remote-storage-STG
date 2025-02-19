@@ -44,7 +44,7 @@
         "name": "Games",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
         "remotePath": "packs/meta-options/a0bfd4d7-aa78-42a8-b232-d849d003a453.zip",
-        "version": "57e040b5-db94-49a6-91b6-9f59b2dc1e29",
+        "version": "27f93dcb-bd6c-4ad7-abca-37ca4f636591",
         "remoteDependencies": {
             "dataBuckets": [
                 {
@@ -55,10 +55,10 @@
             ]
         },
         "itemsVersions": {
-            "2bfc81c4-0179-4828-b92a-ad4c39edbca6": "3c4fc71c-df6a-4c4d-b765-18d9cafa0dc1",
-            "222111d3-482b-43ed-9b5d-484216b02c07": "d5987b8c-7b70-47bb-90ee-be8e16633395",
-            "16060d69-0f86-49a9-b71e-dda37bf924ce": "68e7442f-1e69-417a-8932-5bd8566108e3",
-            "2cfa93dc-0980-4cc7-866b-e1ef82ae42a7": "3ba19fab-ea0f-4441-bfda-3fd65337da6c"
+            "2bfc81c4-0179-4828-b92a-ad4c39edbca6": "0dda7809-227b-4dda-aef0-5447dd8c70f7",
+            "222111d3-482b-43ed-9b5d-484216b02c07": "4e7ba1b9-6a73-464b-bfc4-5e8995211bd7",
+            "16060d69-0f86-49a9-b71e-dda37bf924ce": "cd20af9b-771f-44ad-bd6f-683f528f82a7",
+            "2cfa93dc-0980-4cc7-866b-e1ef82ae42a7": "14c65fc4-4946-4035-8a0a-6f4c59131b03"
         }
     }
 ]
