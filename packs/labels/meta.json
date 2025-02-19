@@ -4,7 +4,7 @@
         "name": "Manga labels",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
         "remotePath": "packs/labels/3d1d491e-80c6-4b42-8e00-4c58fbe70c79.zip",
-        "version": "7424b9af-e465-4f03-98b7-7b20f763d066",
+        "version": "ff190e51-e309-4ccd-a5e1-fc5769d34e9c",
         "remoteDependencies": {
             "templates": [
                 {
@@ -17,8 +17,8 @@
             "dataBuckets": null
         },
         "itemsVersions": {
-            "9b9efdb2-8a8a-4807-a1e8-2d5aaaf55c5f": "ac08fc1c-73ee-4bd2-b3a9-84932acdbb7d",
-            "df2e79b9-9c33-42eb-a4e8-6bdd9102340b": "2518ab32-7bc4-4c9d-b23d-249d21cc8de1"
+            "9b9efdb2-8a8a-4807-a1e8-2d5aaaf55c5f": "d06d24a8-590d-4f5c-9a85-62db3b983daf",
+            "df2e79b9-9c33-42eb-a4e8-6bdd9102340b": "7e58aae7-094a-46cd-b873-d8bb29259d48"
         }
     },
     {
