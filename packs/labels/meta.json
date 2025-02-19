@@ -26,19 +26,19 @@
         "name": "Languages flags",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
         "remotePath": "packs/labels/3e66fec4-2761-43cb-bdc4-94f6426f1d27.zip",
-        "version": "e7e2e044-a5ee-4f37-b914-415cac6b2a2a",
+        "version": "b82660b6-d723-44cf-bbe3-5ca0da3ceb53",
         "remoteDependencies": null,
         "itemsVersions": {
-            "702d558d-996a-413d-9273-39345d7a8bff": "67705894-c8ad-4a3d-b6e5-bf286bf16bba",
-            "e1ccf9a3-5f1e-4b0f-b25c-0f426edb1cbb": "8849386a-9e0e-4013-8e4b-8a3f1ea1faed",
-            "86283f97-d922-45b5-a971-0cc76b191455": "0915f1ac-6dd1-44bb-942a-6170d0096da5",
-            "9dc62776-7ada-4768-becb-6a093c30a770": "c3bd9852-293c-4eab-9892-571ba08caa98",
-            "b1e43998-d442-4e10-9cd4-465c65f0c2eb": "bec7d236-0b32-47ac-8a09-ca9a33771cc2",
-            "3d9d9395-c1e6-49a1-89b2-e514cfe0953a": "6951ae4e-f7cd-4c94-aef2-0f6ed154d82a",
-            "6399d702-83fd-43cf-a32d-c678442c5c8d": "3366029f-9b1f-4a77-a751-681f7b7ca57a",
-            "14d1bf1d-6fbd-43a9-a35e-21fe30e0f4fe": "c47a26b0-6ae3-46a6-b1a5-a2a3c1833676",
-            "0e00b6e6-3e76-41c3-9aaa-662fcaae0cdb": "03681896-0912-4c4d-a60c-016e62ef36b1",
-            "994cd393-6d04-45fc-994b-8f1dba6d3378": "b8233514-4196-489d-8add-1aa1a9006496"
+            "702d558d-996a-413d-9273-39345d7a8bff": "712e143f-178c-4d31-8596-04bf4aef82e1",
+            "e1ccf9a3-5f1e-4b0f-b25c-0f426edb1cbb": "f6ef6724-f57c-42d4-87e7-27fb296f5738",
+            "86283f97-d922-45b5-a971-0cc76b191455": "925c33c7-9e9d-4996-8a90-efa9f6e9cce2",
+            "9dc62776-7ada-4768-becb-6a093c30a770": "76a0ee83-b17c-4f93-b2be-4fe65702fffe",
+            "b1e43998-d442-4e10-9cd4-465c65f0c2eb": "39fa1ac0-a915-4faf-8d3b-ed172dfcb372",
+            "3d9d9395-c1e6-49a1-89b2-e514cfe0953a": "ee26f950-951e-4f3e-897d-3a851affd5fd",
+            "6399d702-83fd-43cf-a32d-c678442c5c8d": "a893f2a0-5a45-4537-9103-3d8e138ab8c0",
+            "14d1bf1d-6fbd-43a9-a35e-21fe30e0f4fe": "025b5132-3843-4c38-b41c-b19b4afed976",
+            "0e00b6e6-3e76-41c3-9aaa-662fcaae0cdb": "d2d091d5-f193-4c92-b7fe-8bd569c86415",
+            "994cd393-6d04-45fc-994b-8f1dba6d3378": "20d81a26-b93f-4884-b234-10a078b542c0"
         }
     }
 ]
