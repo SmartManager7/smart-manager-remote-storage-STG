@@ -33,10 +33,10 @@
         "name": "Manga",
         "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
         "remotePath": "packs/meta-options/7f4094ae-cee4-4715-8751-e43501b35236.zip",
-        "version": "6d801d72-b23a-48fc-8507-1d07593901f3",
+        "version": "55ba6278-4431-42b9-8f35-8fe653656e0b",
         "remoteDependencies": null,
         "itemsVersions": {
-            "4be75554-2759-4dab-9b31-56ee86d5b64d": "2f756021-d111-469b-8403-51c23fc63761"
+            "4be75554-2759-4dab-9b31-56ee86d5b64d": "53d9cfb1-2507-4889-85f7-bc457114e9db"
         }
     },
     {
