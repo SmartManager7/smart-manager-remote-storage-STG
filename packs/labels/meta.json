@@ -40,5 +40,19 @@
             "0e00b6e6-3e76-41c3-9aaa-662fcaae0cdb": "d2d091d5-f193-4c92-b7fe-8bd569c86415",
             "994cd393-6d04-45fc-994b-8f1dba6d3378": "20d81a26-b93f-4884-b234-10a078b542c0"
         }
+    },
+    {
+        "id": "642cb8f0-7f61-41a1-a1b5-e529747ca3c8",
+        "name": "Content types",
+        "remoteBaseUrl": "https://github.com/SmartManager7/smart-manager-remote-storage-STG",
+        "remotePath": "packs/labels/c70b4796-d7ab-4b55-8dcd-c4aeb387f645.zip",
+        "version": "56c11875-f6a1-4211-967f-cdb1525d4e8e",
+        "remoteDependencies": null,
+        "itemsVersions": {
+            "782996b5-7ad8-4d2b-8c16-5d07c4d04b25": "ce53fdff-2c92-49fc-8c5c-daa042eb8e48",
+            "f4d4252f-e5c1-490e-9ade-90c85614411a": "d9aa1e8c-cdbe-4f69-be9b-e5354dd9f535",
+            "a5319e36-60af-43c8-8a6c-2604d7ac7e5e": "20a9c9a0-bce8-49ef-b5ca-1eff2fef611a",
+            "eb2c2743-a3de-4bdd-944f-b3882fa600cb": "9f1ff3bd-deaf-407a-ae43-260ce1bc8dff"
+        }
     }
 ]
